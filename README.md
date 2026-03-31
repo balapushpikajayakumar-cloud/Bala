@@ -94,7 +94,7 @@
 
 <!-- Home -->
 <section id="home" class="home">
-    <img src="yourphoto.jpg" class="profile">
+    <img src="myphoto.jpg" class="profile">
     <h1>Hello, I'm <span>Balapushpika</span></h1>
     <p>Student • Developer • Learner</p>
 </section>
